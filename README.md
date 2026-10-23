@@ -12,11 +12,12 @@ browser, nothing touches real systems.
 
 ## About this project
 This project was built with AI assistance (Claude). I came up with the
-concept, directed the build, tested it, and customized it.
+concept (from a trend on FL Studio where people would make a beat battle), directed the build, tested it, and customized it.
 Changes I made myself: 
 - Game Color: Green
 - Opponent Names: Script Kiddie, Black Hat, and Zero Day
 
 ## Ideas for next steps
-- Accounts and a global leaderboard
+- Accounts and a global leaderboard (ranks)
 - Live player-vs-player matches
+- 
